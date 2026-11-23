@@ -6,7 +6,7 @@
 
 Визуальный клиент для Minecraft Java 1.21.4.
 
-**Первый релиз скоро** · **[Discord](https://discord.gg/bKyR34QjF4)**
+**[Скачать для Windows](https://github.com/MaDi75/madok-visuals/releases/latest)** · **[Discord](https://discord.gg/bKyR34QjF4)**
 
 <img src="assets/hero.webp" alt="Бой: метка на цели, искры, TargetHUD" width="100%" />
 
